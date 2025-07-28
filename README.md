@@ -18,10 +18,10 @@ My website isn't just about sharing; it's about engaging you in an interactive e
 
 ## 📌 Screenshots:
 
-![home](/public/home.png)
-![about](/public/about.png)
-![project](/public/project.png)
-![contact](/public/contact.png)
+![home](/img/home.png)
+![about](/img/about.png)
+![project](/img/project.png)
+![contact](/img/contact.png)
 
 <h2>📬 Contact</h2>
 
